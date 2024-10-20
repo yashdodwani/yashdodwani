@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Dodwani</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h1 align="center">Heya 👋, I'm Yash Dodwani</h1>
+<h3 align="center">A passionate ML Engineer</h3>
 <img align="right" alt="ML" width="400" src="https://media1.tenor.com/m/NWl2khBJ0wsAAAAd/we-learn-to-tell-computer-what-to-do-charles-severance.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdodwani&label=Profile%20views&color=0e75b6&style=flat" alt="yashdodwani" /> </p>
 
