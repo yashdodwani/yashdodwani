@@ -1,3 +1,4 @@
+![logo](https://github.com/yashdodwani/yashdodwani/blob/main/Mlbanner.jpg)
 <h1 align="center">Heya 👋, I'm Yash Dodwani</h1>
 <h3 align="center">A passionate ML Engineer</h3>
 <img align="right" alt="ML" width="400" src="https://media1.tenor.com/m/NWl2khBJ0wsAAAAd/we-learn-to-tell-computer-what-to-do-charles-severance.gif">
