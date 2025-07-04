@@ -6,7 +6,7 @@
 
 🔭 I'm currently working on Star, Quasars, Exoplanets detection using svm
 🌱 I'm currently learning NLP and Deep learning
-📝 I regularly write articles on https://www.notion.so/b3fc90a7dce641ea95c217de6fd6374e
+
 💬 Ask me about Machine learning (scikit-learn,xgboost), Model training (different algorithms), Computer Vision
 📫 How to reach me yashdodwani44@gmail.com
 ⚡ Fun fact I Love asking Y!!
