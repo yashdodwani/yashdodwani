@@ -3,14 +3,12 @@
 <h3 align="center">A passionate ML Engineer</h3>
 <img align="right" alt="ML" width="400" src="https://media1.tenor.com/m/NWl2khBJ0wsAAAAd/we-learn-to-tell-computer-what-to-do-charles-severance.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdodwani&label=Profile%20views&color=0e75b6&style=flat" alt="yashdodwani" /> </p>
-
-🔭 I'm currently working on Star, Quasars, Exoplanets detection using svm
-🌱 I'm currently learning NLP and Deep learning
-
-💬 Ask me about Machine learning (scikit-learn,xgboost), Model training (different algorithms), Computer Vision
-📫 How to reach me yashdodwani44@gmail.com
+<p align="left">
+🔭 I'm currently working on some exciting projects<br>
+🌱 I'm currently learning about transformers<br>
+📫 How to reach me yashdodwani44@gmail.com<br>
 ⚡ Fun fact I Love asking Y!!
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yashdodwani64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashdodwani64" height="30" width="40" /></a>
