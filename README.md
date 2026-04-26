@@ -1,135 +1,104 @@
-![logo](https://github.com/yashdodwani/yashdodwani/blob/main/Mlbanner.jpg)
-<h1 align="center">Heya 👋, I'm Yash Dodwani</h1>
-<h3 align="center">A passionate ML Engineer</h3>
-<img align="right" alt="ML" width="400" src="https://media1.tenor.com/m/NWl2khBJ0wsAAAAd/we-learn-to-tell-computer-what-to-do-charles-severance.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdodwani&label=Profile%20views&color=0e75b6&style=flat" alt="yashdodwani" /> </p>
-<p align="left">
-🔭 I'm currently working on some exciting projects<br>
-🌱 I'm currently learning about transformers<br>
-📫 How to reach me yashdodwani44@gmail.com<br>
-⚡ Fun fact I Love asking Y!!
+<h1 align="center">Hey, I'm Yash Dodwani 👋</h1>
+
+<h3 align="center">AI/ML Engineer · Backend Engineer · Building production-grade AI systems</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-dodwani-763b16291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yashdodwani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/yashdodwani">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:yashdodwani64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yashdodwani&label=Profile+views&color=0e75b6&style=flat" />
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@yashdodwani64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashdodwani64" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-dodwani-763b16291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-dodwani-763b16291" height="30" width="40" /></a>
-<a href="https://kaggle.com/yashdodwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashdodwani" height="30" width="40" /></a>
-<a href="https://instagram.com/astr_oyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astr_oyash" height="30" width="40" /></a>
+
+---
+
+## About Me
+
+- 🎓 B.E. Information Technology @ BIT Bangalore (CGPA: 8.5) — graduating 2027
+- 💼 AI/ML Engineer Intern @ **OpenIntervue** — shipped real-time proctoring, RAG pipelines, and NER systems into production
+- 🤖 Interested in: LLMs, agentic AI, RLHF/alignment, scalable backend systems
+- 🏆 Winner of 2 national-level hackathons · 1300+ GitHub commits · 200+ DSA problems solved
+- 📍 Bangalore, India
+
+---
+
+## Tech Stack
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**LLMs & Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat&logoColor=white)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [**CrediFlow**](https://github.com/yashdodwani/credflow) | Gemini 2.5, FastAPI, GCP Cloud Run, Docker | Autonomous BFSI AI agent — KYC, underwriting & loan generation in <2 min |
+| [**LM-Sense**](https://github.com/yashdodwani/LM-Sense) | QLoRA, PPO/RLHF, PEFT, FastAPI, Redis, K8s | LLM bias mitigation layer — fine-tuning + RLHF + inference-time debiasing |
+| [**AuditRx**](https://github.com/yashdodwani/AuditRx) | Qwen2.5-72B, FastAPI, Docker, OpenEnv | RL environment for training AI agents on clinical trial audits |
+| [**Pulse 2.0**](https://github.com/yashdodwani/Pulse-2.0) | FastAPI, MediaPipe, OpenCV, MongoDB | Real-time exercise tracking + AI health analytics (95% pose accuracy) |
+| [**WattWise**](https://github.com/yashdodwani/WattWise) | FastAPI, React, MongoDB, AI Analytics | Smart energy management platform with real-time dashboards |
+| [**claudBUD**](https://github.com/yashdodwani/claudBUD) | Claude API, FastAPI | AI productivity assistant built on Claude |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashdodwani&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdodwani&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdodwani&show_icons=true&locale=en&layout=compact" alt="yashdodwani" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdodwani&show_icons=true&locale=en" alt="yashdodwani" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdodwani&" alt="yashdodwani" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdodwani&theme=default&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to AI/ML and Backend Engineering internship opportunities. Let's build something.</i><br/>
+  <a href="mailto:yashdodwani64@gmail.com">yashdodwani64@gmail.com</a> · <a href="https://www.linkedin.com/in/yash-dodwani-763b16291/">LinkedIn</a>
+</p>
