@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yash Dodwani 👋</h1>
+[<h1 align="center">Hey, I'm Yash Dodwani 👋</h1>
 
 <h3 align="center">AI/ML Engineer · Backend Engineer · Building production-grade AI systems</h3>
 
@@ -102,3 +102,4 @@
   <i>Open to AI/ML and Backend Engineering internship opportunities. Let's build something.</i><br/>
   <a href="mailto:yashdodwani64@gmail.com">yashdodwani64@gmail.com</a> · <a href="https://www.linkedin.com/in/yash-dodwani-763b16291/">LinkedIn</a>
 </p>
+](https://github.com/vaxerski)
